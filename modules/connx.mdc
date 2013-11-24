@@ -1,0 +1,55 @@
+PCBNEW-LibDoc----V1  Di 11 Jan 2011 14:18:51 CET
+#
+$MODULE SIL-10_MYAVR
+Li SIL-10_MYAVR
+Cd Connector myAVR
+Kw CONN AVR
+$EndMODULE
+#
+$MODULE CONN_AKL2
+Li CONN_AKL2
+Cd Schraubklemme 2pol
+$EndMODULE
+#
+$MODULE PAD
+Li PAD
+Cd Single pad for connection
+$EndMODULE
+#
+$MODULE CONN_DUAL_MINI_DIN
+Li CONN_DUAL_MINI_DIN
+Cd Dual Mini-DIN connector
+$EndMODULE
+#
+$MODULE RJ11_E
+Li RJ11_E
+Cd RJ11 connector
+$EndMODULE
+#
+$MODULE FUSE_PRINT
+Li FUSE_PRINT
+Cd Fuse print montage
+$EndMODULE
+#
+$MODULE RJ11_RN
+Li RJ11_RN
+Cd RJ11 connector Reichelt neu
+$EndMODULE
+#
+$MODULE RJ11_RO
+Li RJ11_RO
+Cd RJ11 connector Reichelt (old)
+$EndMODULE
+#
+$MODULE SIL-10_MYAVR+SER
+Li SIL-10_MYAVR+SER
+Cd Connector myAVR
+Kw CONN AVR
+$EndMODULE
+#
+$MODULE CONN_USBA_SMD
+Li CONN_USBA_SMD
+Cd USB A connector (SMD)
+$EndMODULE
+#
+$EndLIBDOC
