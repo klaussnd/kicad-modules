@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Fr 06 Dez 2013 20:55:09 CET
+EESchema-LIBRARY Version 2.3  Date: So 08 Dez 2013 19:35:12 CET
 #encoding utf-8
 #
 # 7810
@@ -20,7 +20,7 @@ ENDDEF
 #
 # LP2950
 #
-DEF LP2950 IC 0 40 Y Y 1 F P
+DEF LP2950 IC 0 40 Y Y 1 F N
 F0 "IC" -100 -200 60 H V C CNN
 F1 "LP2950" 200 0 60 V V C CNN
 $FPLIST
