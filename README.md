@@ -5,6 +5,7 @@ are not available in the default installation.
 
 ## Libraries
 
+* `analogx.lib`: Analogue switches
 * `connx.lib`: Various connectors
 * `devicex.lib`: Various devices (rfm12 wireless module, CAN controller, GAL, relays, ...)
 * `linearx.lib`: Instrument amplifier AD623, audio amplifier TDA7052A
