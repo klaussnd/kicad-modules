@@ -1,5 +1,5 @@
-(module RJ11_RO (layer F.Cu) (tedit 5BF5283E)
-  (descr "RJ11 connector Reichelt (old)")
+(module RJ11_RO (layer F.Cu) (tedit 5DDECBCA)
+  (descr "RJ11 connector Reichelt MEBP 6-4S")
   (fp_text reference J2 (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
