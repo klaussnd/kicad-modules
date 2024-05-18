@@ -5,13 +5,15 @@ are not available in the default installation.
 
 ## Libraries
 
-* `analogx.lib`: Analogue switches
-* `connx.lib`: Various connectors
-* `devicex.lib`: Various devices (rfm12 wireless module, CAN controller, GAL, relays, ...)
-* `linearx.lib`: Instrument amplifier AD623, audio amplifier TDA7052A
-* `regulx.lib`: Voltage regulator chips
-* `sensor.lib`: Sensors: BMP085 pressure sensor, HDMM01 compass module
-* `switchesx.lib`: Push buttons
+* `analogx.kicad_sym`: Analogue switches
+* `connx.kicad_sym`: Various connectors
+* `devicex.kicad_sym`: Various devices (rfm12 wireless module, CAN controller, GAL, relays, ...)
+* `linearx.kicad_sym`: Instrument amplifier AD623, audio amplifier TDA7052A
+* `regulx.kicad_sym`: Voltage regulator chips
+* `sensor.kicad_sym`: Sensors: BMP085 pressure sensor, HDMM01 compass module
+* `switchesx.kicad_sym`: Push buttons
+
+Legacy `.lib` are still provided for compatibility.
 
 ## Modules
 
