@@ -1,6 +1,6 @@
 # KiCad libraries and modules
 
-This repository contains KiCad libraries and modules that I need for my projects but
+This repository contains [KiCad](https://www.kicad.org/) libraries and modules that I need for my projects but
 are not available in the default installation.
 
 ## Libraries
